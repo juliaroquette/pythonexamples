@@ -5,21 +5,21 @@ Created this repository to put together a series of examples of python I have co
 
 ## `MultiplePlots` include:
 
-Figures with multiple plots using:
-- `plt.subplots`
-- `plt.subplot2grid`
-- `GridSpec`
-Including:
-- grids of equal size
-- grids of different sizes
-- grids inside `for`
+  Figures with multiple plots using:
+  - `plt.subplots`
+  - `plt.subplot2grid`
+  - `GridSpec`
+  Including:
+  - grids of equal size
+  - grids of different sizes
+  - grids inside `for`
 
-Some plot adjust:
+  Some plot adjust:
 
-- remove tick labels
-- change space between plots
-- share axis
+  - remove tick labels
+  - change space between plots
+  - share axis
 
-A more complex example:
+  A more complex example:
 
-- How to build a plot composed by several subplots with a major axis. 
+  - How to build a plot composed by several subplots with a major axis. 

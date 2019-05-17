@@ -31,3 +31,5 @@ Created this repository to put together a series of examples of python I have co
   - `np.savez`
   - `h5py`
   
+## `readAndWriteFits` include:
+  - how to read and write `*.fits` files with `astropy.io.fits` and `astropy.tables`
